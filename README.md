@@ -2,4 +2,4 @@
 
 # PDF DOCUMENTATION
 
-[CLICK HERE TO VIEW PDF](https://drive.google.com/file/d/1OPJDeYslrm1cVAYW0o8pho_tKK_tBjP4/view?usp=sharing).
+[CLICK HERE TO VIEW PDF](https://drive.google.com/file/d/16FlgOCMnn6aUZIHS2SMCywVfsvJA_HA8/view?usp=drive_link).
